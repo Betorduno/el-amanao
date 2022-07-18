@@ -276,7 +276,7 @@
                 </div>
               </div>
               
-              <img class="w-100 my-5" src="assets/img/allies/line-02.png" alt="line"></img>
+              <img class="w-100 my-5" src="assets/img/allies/line-02.png" alt="line"/>
               <div class="col-lg-5 col-xl-5 col-md-12 col-sm-12 col-12">
                 <div class="number-speaks-wrapper">
                   <div class="content wow move-up">
