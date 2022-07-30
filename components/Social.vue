@@ -3,20 +3,19 @@
 <div>
   <div class="social">
     <div class="social-items">
-      <a class="my-1" href="https://www.linkedin.com/company/traincol/" target="_blank" >
+      <a class="my-1" href="https://www.facebook.com/dedondevenisandariego" target="_blank" >
         <img class="social-items-img" src="assets/img/icons/facebook-03.png" alt="Facebook" srcset="assets/img/icons/facebook-03.png" loading="lazy">
       </a>
-      <a class="my-1" href="https://instagram.com/traincolsas?utm_medium=copy_link" target="_blank" >
+      <a class="my-1" href="https://www.instagram.com/elamanao1/" target="_blank" >
         <img class="social-items-img" src="assets/img/icons/instagram-03.png" alt="Instagram" srcset="assets/img/icons/instagram-03.png" loading="lazy">
-      </a>
-      <a class="my-1" href="https://www.youtube.com/channel/UCjgDoNqIJxd3Qq8zEJ1DF3A" target="_blank">
-        <img class="social-items-img" src="assets/img/icons/twitter-03.png" alt="Youtube" srcset="assets/img/icons/twitter-03.png" loading="lazy">
       </a>
     </div>
   </div>
   <div class="social-mod">
       <div class="social-mod-item">
-        elamanao@gmail.com
+        <a href = "mailto: info@elamanao.com" target="_blank" class="text-white text-decoration-none">
+          info@elamanao.com
+        </a>
       </div>
   </div>
 </div>
@@ -52,7 +51,7 @@
     font-family: 'Monserrat', sans-serif;
     font-weight: 600;
     font-size: 1rem;
-    
+
     color:#fff
   }
 }

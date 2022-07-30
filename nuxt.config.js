@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Amañao',
+    title: 'El Amañao',
     htmlAttrs: {
       lang: 'en'
     },
@@ -28,7 +28,7 @@ export default {
       { src: "/assets/js/revolution.extension.min.js" },
       { src: "/assets/js/main.js" },
       { src: "/assets/js/revoulation.js" }
-    ]    
+    ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
